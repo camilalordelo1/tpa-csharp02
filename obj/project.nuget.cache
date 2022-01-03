@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "i6K4/S1i5cmDrGaHmOQcc2UC2RkAhlrZEx/c1bC7GLSgPx//21+qeu7xBULT5AXOD2mmNzxFAiT05fFaG9IfPw==",
+  "success": true,
+  "projectFilePath": "D:\\ESTUDOS\\ETEC\\ETEC - 1° ANO\\TÉCNICO\\TPA\\aula2\\aula2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\camil\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\camil\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\camil\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\camil\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\camil\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\camil\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\camil\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\ESTUDOS\\ETEC\\ETEC - 1° ANO\\TÉCNICO\\TPA\\aula2\\aula2.csproj": {}
+  },
+  "projects": {
+    "D:\\ESTUDOS\\ETEC\\ETEC - 1° ANO\\TÉCNICO\\TPA\\aula2\\aula2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ESTUDOS\\ETEC\\ETEC - 1° ANO\\TÉCNICO\\TPA\\aula2\\aula2.csproj",
+        "projectName": "aula2",
+        "projectPath": "D:\\ESTUDOS\\ETEC\\ETEC - 1° ANO\\TÉCNICO\\TPA\\aula2\\aula2.csproj",
+        "packagesPath": "C:\\Users\\camil\\.nuget\\packages\\",
+        "outputPath": "D:\\ESTUDOS\\ETEC\\ETEC - 1° ANO\\TÉCNICO\\TPA\\aula2\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\camil\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "targetAlias": "netcoreapp2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "targetAlias": "netcoreapp2.1",
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
