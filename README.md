@@ -5,12 +5,13 @@
 #### 📝 OBJETIVO
     Somar 2 números
     
-   #### EXEMPLO:
-   ```Digite N1: 
+#### EXEMPLO
+    Digite N1: 
     10
     Digite N2: 
     20
-    Soma: 30```
+    Soma: 30
+
        
 #### 📌 FERRAMENTAS
     ✔️ C#
